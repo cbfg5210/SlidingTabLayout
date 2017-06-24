@@ -1,1 +1,3 @@
 # SlidingTabLayout
+
+SlidingTabLayout主要解决了android的TabLayout不能定义指示条长度与Tab文字长度相等的问题
